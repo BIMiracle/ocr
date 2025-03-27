@@ -1,4 +1,4 @@
-# WeChat OCR API Docker
+# WeChat OCR API Docker [中文文档](https://github.com/BIMiracle/ocr/blob/main/README_zh.MD)
 
 A Dockerized REST API service for text recognition using WeChat's OCR engine.
 
